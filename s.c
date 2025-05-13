@@ -3,6 +3,7 @@
 <th>product</th>
 <th>category</th>
 <th>price</th>
+<th>total</th>
 </tr>
 <tr>
 <th>laptop</th>
